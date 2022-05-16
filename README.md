@@ -17,10 +17,9 @@ numpy
 nltk
 re
 sklearn
-Algorithms
+#Algorithms
 Logistic Regression
-Naive Bayes
-SVC
+ SVC
 Random Forest
 
-Best Model Accuracy: 98.27
+Best Model Accuracy (SVC MODEL):  98.27709978463747
