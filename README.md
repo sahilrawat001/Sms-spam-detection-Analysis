@@ -1,4 +1,4 @@
-# Email-spam-detection-Analysis
+# Sms-spam-detection-Analysis
 
 
 #Dataset Information
